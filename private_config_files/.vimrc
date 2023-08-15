@@ -89,3 +89,8 @@ nnoremap <F6> :bn<cr>
 nnoremap <F7> :bp<cr>
 map <F9> :e <C-d>
 " set tags=/opt/workspace/android-automation/TAP/tags
+nnoremap # #N
+nnoremap * *N
+nnoremap n N
+nnoremap N n
+
